@@ -659,8 +659,8 @@ Animation
     background: var(--clr-primary-1);
     top: 5.5em;
     width: 92%;
-    max-width: 800px;
-    margin: 0 auto;
+    /* max-width: 800px; */
+    margin: 0 auto !important;
     padding: 1em;
     border-radius: 0.66em;
     transition: 0.3s ease-in;
@@ -686,7 +686,7 @@ Animation
   }
 
   .code {
-  height: 10em;
+  height: 5em;
 }
 
   .hero-contents {
