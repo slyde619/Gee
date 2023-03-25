@@ -678,7 +678,8 @@ Animation
   }
 
   .code-wrap {
-    visibility: hidden;
+/*     visibility: hidden; */
+    display: none;
   }
 
   .hero {
