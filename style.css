@@ -729,7 +729,15 @@ Animation
     grid-template-columns: 1fr;
   }
 
+  .profile-img {
+    height: 300px;
+  }
+
   .footer {
     flex-direction: column;
+  }
+
+  .footer-item{
+    margin-bottom: .75em;
   }
 }
